@@ -9,7 +9,6 @@ Các bước deploy trên local:
 
 
 Yêu cầu : 
-1. Làm một header giống với header của website tiemtra1989.com
-2. Trong route Home :  Làm 1 trang xác nhận thanh toán có responsive như của website buy-chatgpt.store
+1. Front-end : tạo trang đăng nhập với giao diện giống như trong website : https://getbootstrap.com/docs/4.0/examples/sign-in/
 
-Thời hạn : 16h ngày 5.3 giờ moscow 
+2. Back-end : Tạo trang đăng ký với những thông tin : email, username, mật khẩu. Đăng nhập được và chuyển hướng đến home băng username và mật khẩu. 
